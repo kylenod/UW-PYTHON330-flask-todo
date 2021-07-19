@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6143c6c5-cb23-4f53-95c8-90dbaa189c3d" name="Default Changelist" comment="" />
+    <list default="true" id="6143c6c5-cb23-4f53-95c8-90dbaa189c3d" name="Default Changelist" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1626566751342</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1626656389102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626656389102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +106,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1626655799664">
