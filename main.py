@@ -7,7 +7,7 @@ from passlib.hash import pbkdf2_sha256
 from model import Task, User
 
 app = Flask(__name__)
-
+app.secret_key = os.environ.get('SECRET_KEY').encode()
 
 @app.route('/all')
 def all_tasks():
